@@ -1,0 +1,2 @@
+org.springframework.boot.context.properties.EnableConfigurationProperties=home.learning.eventnotificator.ApplicationConfig
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=home.learning.eventnotificator.ApplicationConfig
